@@ -19,10 +19,10 @@ console.log(dirt.typeof);
 let water;
 const kitchen = '';
 let gym;
-const store;
+//const store;
 
 //Assigned Values
-const aName = 'Brayden';
+/*const aName = 'Brayden';
 const myAge = 23;
 const isAnAdult = true;
 const weight = 170;
@@ -31,7 +31,7 @@ const myName = 'Brayden';
 const lastName = 'Gibson';
 const maritalStatus = 'Married';
 let country = 'United States';
-let age = 23;
+let age = 23;*/
 
 const [myName, myLastName, maritalStatus, country, age] = ['Brayden', 'Gibson', 'Married', 'United States', 23];
 
